@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    
+}
+h1{
+    background-color: black;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    font-weight: bold;
+    text-align: center;
+    top: 30%;
+    left: 25%;
+    border-radius: 50%;
+    height: 50px;
+    width: 400px;
+
+
+}
+.mine {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height:80px;
+    width: 80px;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+p{
+    transform: translateX(14%);
+
+    
+}
